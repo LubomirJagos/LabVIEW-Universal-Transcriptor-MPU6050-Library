@@ -6,4 +6,6 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Basic.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Basic.vi"/>
 	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Translator.vi"/>
+	<Item Name="Unsigned int to int.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Unsigned int to int.vi"/>
+	<Item Name="Create 16b Int.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Create 16b Int.vi"/>
 </Library>
