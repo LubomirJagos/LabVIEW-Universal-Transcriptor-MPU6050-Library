@@ -4,8 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Basic.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Basic.vi"/>
-	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Translator.vi"/>
-	<Item Name="Unsigned int to int.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Unsigned int to int.vi"/>
-	<Item Name="Create 16b Int.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MPU60X0/Create 16b Int.vi"/>
+	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
+	<Item Name="readRawAccel.vi" Type="VI" URL="../readRawAccel.vi"/>
+	<Item Name="Vector Datatype.ctl" Type="VI" URL="../Vector Datatype.ctl"/>
+	<Item Name="readNormalizeAccel.vi" Type="VI" URL="../readNormalizeAccel.vi"/>
+	<Item Name="begin.vi" Type="VI" URL="../begin.vi"/>
 </Library>
