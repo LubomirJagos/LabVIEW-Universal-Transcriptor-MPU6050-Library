@@ -6,7 +6,18 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 	<Item Name="readRawAccel.vi" Type="VI" URL="../readRawAccel.vi"/>
-	<Item Name="Vector Datatype.ctl" Type="VI" URL="../Vector Datatype.ctl"/>
+	<Item Name="Vector.ctl" Type="VI" URL="../Vector.ctl"/>
 	<Item Name="readNormalizeAccel.vi" Type="VI" URL="../readNormalizeAccel.vi"/>
 	<Item Name="begin.vi" Type="VI" URL="../begin.vi"/>
+	<Item Name="ClockSource.ctl" Type="VI" URL="../ClockSource.ctl"/>
+	<Item Name="Range.ctl" Type="VI" URL="../Range.ctl"/>
+	<Item Name="onDelay.ctl" Type="VI" URL="../onDelay.ctl"/>
+	<Item Name="dhpf.ctl" Type="VI" URL="../dhpf.ctl"/>
+	<Item Name="dlpf.ctl" Type="VI" URL="../dlpf.ctl"/>
+	<Item Name="Address.ctl" Type="VI" URL="../Address.ctl"/>
+	<Item Name="Scale.ctl" Type="VI" URL="../Scale.ctl"/>
+	<Item Name="readTemperature.vi" Type="VI" URL="../readTemperature.vi"/>
+	<Item Name="readScaledAccel.vi" Type="VI" URL="../readScaledAccel.vi"/>
+	<Item Name="readRawGyro.vi" Type="VI" URL="../readRawGyro.vi"/>
+	<Item Name="readNormalizeGyro.vi" Type="VI" URL="../readNormalizeGyro.vi"/>
 </Library>
