@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-05-15 00:33:32" Modified_Date="2018-07-16 12:34:46" Creator="lubo" Comments="" ID="c07990c4dd8146c88e25c433293f8a7b">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-05-15 00:33:32" Modified_Date="2018-09-08 23:11:27" Creator="lubo" Comments="" ID="b5c4d56f085d466821099117f819b4d5">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Universal_Transcriptor_lib_Arduino_MPU6050_Library</Package_File_Name>
-    <Library_Version>0.1.0.4</Library_Version>
+    <Library_Version>0.1.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -303,7 +303,7 @@
         <Path>..\readTemperature.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>72546DCF81CC437BF628C73E9929528C</GUID>
+      <GUID>81E016007FCB2B9C7E936A218EC94147</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -352,7 +352,7 @@
         <Path>..\Test\Show Values Graphs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>34352E1CF8EE5417499CF2B9211D6394</GUID>
+      <GUID>4444B40D02570825EFE337FC095E26A0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
