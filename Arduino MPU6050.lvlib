@@ -6,7 +6,7 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 	<Item Name="readRawAccel.vi" Type="VI" URL="../readRawAccel.vi"/>
-	<Item Name="Vector.ctl" Type="VI" URL="../Vector.ctl"/>
+	<Item Name="MPU6050LibVector.ctl" Type="VI" URL="../MPU6050LibVector.ctl"/>
 	<Item Name="readNormalizeAccel.vi" Type="VI" URL="../readNormalizeAccel.vi"/>
 	<Item Name="begin.vi" Type="VI" URL="../begin.vi"/>
 	<Item Name="ClockSource.ctl" Type="VI" URL="../ClockSource.ctl"/>
